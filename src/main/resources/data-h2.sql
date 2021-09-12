@@ -1,0 +1,2 @@
+insert into users(username, position, password, role) values('user', 'position1', 'password', 'USER');
+insert into users( username, position, password, role) values('admin', 'position2', 'password', 'ADMIN');
